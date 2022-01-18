@@ -20,4 +20,4 @@ Repositório do SistemaCovid, trabalho de engenharia de software.
 
 ## Trabalho Finalizado
 
-[Sistema Covid](https://github.com/LigiaBrito/SistemaCovid/blob/main/SistemaCovid_Documentacao.docx)
+[SistemaCovid_](https://github.com/LigiaBrito/SistemaCovid/blob/main/SistemaCovid_Documentacao.docx)
